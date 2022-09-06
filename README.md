@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-You can review review the subjects of HTML, CSS, JavaScript, and Git 
+You can review the subjects of HTML, CSS, JavaScript, and Git from notes I created from information for in prework
 
 ## Credits
 
